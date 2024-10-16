@@ -23,7 +23,7 @@ Le système intègre plusieurs bases de données biomédicales :
 
 ## Schéma Global
 
-![Schéma Global](./SchemaGlobal.pdf)
+![Schéma Global](./SchemaGlobal.png)
 
 Ce schéma représente notre *schéma global de médiateur*, où les données restent dans leurs sources d’origine. Lorsqu’un utilisateur fait une requête, celle-ci est traduite pour interroger les différentes sources, et les résultats sont ensuite agrégés de manière cohérente avant d’être présentés. Ce schéma permet d’illustrer la gestion des mappers utilisés pour traduire et combiner les réponses issues des différentes bases de données.
 
